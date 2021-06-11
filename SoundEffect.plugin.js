@@ -2,10 +2,10 @@
  * @name SoundEffects
  * @author DarSitam
  * @authorId 278543574059057154
- * @version 2.0.1
+ * @version 1.0.0
  * @description plugin BetterDiscord qui joue certains sons quand certains mots sont envoyés
- * @source https://github.com/DarSitam/BD-Sound-Effects
- * @updateUrl https://github.com/DarSitam/BD-Sound-Effects/blob/main/SoundEffect.plugin.js
+ * @source https://github.com/DarSitam/BD-Sound-Effects/blob/main/SoundEffect.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/DarSitam/BD-Sound-Effects/main/SoundEffect.plugin.js?token=AUOIII33IVDJA2KVAJSE6G3AYOFEW
  */
 
  module.exports = (() => {
@@ -17,15 +17,12 @@
 				name: "DarSitam",
 				discord_id: "163278545999626240"
 			}],
-			version: "2.0.1",
-			description: "plugin BetterDiscord qui joue certains sons quand certains mots sont envoyés"
+			version: "1.0.0",
+			description: "plugin BetterDiscord qui joue certains sons quand certains mots sont envoyés",
+            github: "https://github.com/Metalloriff/BetterDiscordPlugins/blob/master/Bruh.plugin.js",
+		    github_raw: "https://raw.githubusercontent.com/DarSitam/BD-Sound-Effects/main/SoundEffect.plugin.js"
 		},
-        rawUrl: `https://raw.githubusercontent.com/DarSitam/BD-Sound-Effects/main/SoundEffect.plugin.js?token=AUOIII33IVDJA2KVAJSE6G3AYOFEW`,
-        changeLog: {
-			fixed: {
-				Toasts: "test"
-			}
-        },
+        
 		defaultConfig: [{
 			id: "general",
 			name: "Paramètres",
