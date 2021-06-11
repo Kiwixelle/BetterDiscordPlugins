@@ -20,7 +20,7 @@
 			version: "2.0.1",
 			description: "plugin BetterDiscord qui joue certains sons quand certains mots sont envoyés"
 		},
-        rawUrl: `https://github.com/DarSitam/BD-Sound-Effects/blob/main/SoundEffect.plugin.js`,
+        rawUrl: `https://raw.githubusercontent.com/DarSitam/BD-Sound-Effects/main/SoundEffect.plugin.js?token=AUOIII33IVDJA2KVAJSE6G3AYOFEW`,
         changeLog: {
 			fixed: {
 				Toasts: "test"
