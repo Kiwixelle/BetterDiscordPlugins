@@ -1,26 +1,26 @@
 /**
- * @name SoundEffects
+ * @name SoundEffect
  * @author DarSitam
  * @authorId 278543574059057154
  * @version 1.0.1
  * @description plugin BetterDiscord qui joue certains sons quand certains mots sont envoyés
  * @source https://github.com/DarSitam/BD-Sound-Effects/blob/main/SoundEffect.plugin.js
- * @updateUrl https://raw.githubusercontent.com/DarSitam/BD-Sound-Effects/main/SoundEffect.plugin.js?token=AUOIII6AUYWGM3ZSCQ6TGITAYOMYW
+ * @updateUrl https://raw.githubusercontent.com/DarSitam/BD-Sound-Effects/main/SoundEffect.plugin.js?token=AUOIII5JMK532RWBY7F63WLAYOOOE
  **/
 
  module.exports = (() => {
 	const config =
 	{
 		info: {
-			name: "SoundEffects",
+			name: "SoundEffect",
 			authors: [{
 				name: "DarSitam",
 				discord_id: "163278545999626240"
 			}],
 			version: "1.0.1",
 			description: "plugin BetterDiscord qui joue certains sons quand certains mots sont envoyés",
-            	github: "https://github.com/Metalloriff/BetterDiscordPlugins/blob/master/Bruh.plugin.js",
-				github_raw: "https://raw.githubusercontent.com/DarSitam/BD-Sound-Effects/main/SoundEffect.plugin.js?token=AUOIII6AUYWGM3ZSCQ6TGITAYOMYW"
+            	github: "https://github.com/DarSitam/BD-Sound-Effects/blob/main/SoundEffect.plugin.js",
+				github_raw: "https://raw.githubusercontent.com/DarSitam/BD-Sound-Effects/main/SoundEffect.plugin.js?token=AUOIII5JMK532RWBY7F63WLAYOOOE"
 		},
         
 		defaultConfig: [{
@@ -172,7 +172,7 @@
 					            audio.play();
                             }
 			
-			else if(message.content.match(/nanan/) || message.content.match(/nonon/))
+						else if(message.content.match(/nanan/) || message.content.match(/nonon/))
                             {
                                 audio.src = "https://www.myinstants.com/media/sounds/hitler-nein_1.mp3";
 					            audio.play();
