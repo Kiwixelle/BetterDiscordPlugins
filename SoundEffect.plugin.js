@@ -172,7 +172,7 @@
 					            audio.play();
                             }
 			
-						else if(message.content.match(/nanan/) || message.content.match(/nonon/))
+			else if(message.content.match(/nanan/) || message.content.match(/nonon/))
                             {
                                 audio.src = "https://www.myinstants.com/media/sounds/hitler-nein_1.mp3";
 					            audio.play();
@@ -188,6 +188,12 @@
                          else if(message.content.match(/meurs/) || message.content.match(/crève/) || message.content.match(/mort/) || message.content.match(/creve/))
                             {
                                 audio.src = "https://www.myinstants.com/media/sounds/coffin-dance-sa.mp3";
+					            audio.play();
+                            }
+			    
+			 else if(message.content.match(/glouglou/) || message.content.match(/dinde/) || message.content.match(/prout/) || message.content.match(/dindon/))
+                            {
+                                audio.src = "https://www.myinstants.com/media/sounds/glouglou.mp3";
 					            audio.play();
                             }
 
