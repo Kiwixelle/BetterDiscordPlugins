@@ -5,7 +5,7 @@
  * @version 1.0.1
  * @description plugin BetterDiscord qui joue certains sons quand certains mots sont envoyés
  * @source https://github.com/DarSitam/BD-Sound-Effects/blob/main/SoundEffect.plugin.js
- * @updateUrl https://raw.githubusercontent.com/DarSitam/BD-Sound-Effects/main/SoundEffect.plugin.js?token=AUOIII3PITYFG6O3ORQINZTAYOMCQ
+ * @updateUrl https://raw.githubusercontent.com/DarSitam/BD-Sound-Effects/main/SoundEffect.plugin.js?token=AUOIII6AUYWGM3ZSCQ6TGITAYOMYW
  **/
 
  module.exports = (() => {
@@ -20,7 +20,7 @@
 			version: "1.0.1",
 			description: "plugin BetterDiscord qui joue certains sons quand certains mots sont envoyés",
             	github: "https://github.com/Metalloriff/BetterDiscordPlugins/blob/master/Bruh.plugin.js",
-				github_raw: "https://raw.githubusercontent.com/DarSitam/BD-Sound-Effects/main/SoundEffect.plugin.js?token=AUOIII3PITYFG6O3ORQINZTAYOMCQ"
+				github_raw: "https://raw.githubusercontent.com/DarSitam/BD-Sound-Effects/main/SoundEffect.plugin.js?token=AUOIII6AUYWGM3ZSCQ6TGITAYOMYW"
 		},
         
 		defaultConfig: [{
