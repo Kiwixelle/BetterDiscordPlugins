@@ -17,7 +17,7 @@
 				name: "DarSitam",
 				discord_id: "163278545999626240"
 			}],
-			version: "1.0.1",
+			version: "1.0.2",
 			description: "plugin BetterDiscord qui joue certains sons quand certains mots sont envoyés",
             	github: "https://github.com/Metalloriff/BetterDiscordPlugins/blob/master/Bruh.plugin.js",
 		    	github_raw: "https://raw.githubusercontent.com/DarSitam/BD-Sound-Effects/main/SoundEffect.plugin.js"
