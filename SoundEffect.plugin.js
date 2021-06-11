@@ -2,7 +2,7 @@
  * @name SoundEffects
  * @author DarSitam
  * @authorId 278543574059057154
- * @version 1.0.1
+ * @version 2.0.1
  * @description plugin BetterDiscord qui joue certains sons quand certains mots sont envoyés
  * @source https://github.com/DarSitam/BD-Sound-Effects
  * @updateUrl https://github.com/DarSitam/BD-Sound-Effects/blob/main/SoundEffect.plugin.js
@@ -17,10 +17,10 @@
 				name: "DarSitam",
 				discord_id: "163278545999626240"
 			}],
-			version: "1.0.1",
+			version: "2.0.1",
 			description: "plugin BetterDiscord qui joue certains sons quand certains mots sont envoyés"
 		},
-        rawUrl: "https://github.com/DarSitam/BD-Sound-Effects/blob/main/SoundEffect.plugin.js",
+        rawUrl: `https://github.com/DarSitam/BD-Sound-Effects/blob/main/SoundEffect.plugin.js`,
         changeLog: {
 			fixed: {
 				Toasts: "test"
