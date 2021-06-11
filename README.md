@@ -1,2 +1,2 @@
-# BD-Sound-Effects
-plugin BetterDiscord qui joue certains sons quand certains mots sont envoyés
+# Mes plugins BetterDiscord
+pour l'instant rien de sérieux
