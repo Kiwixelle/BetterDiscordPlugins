@@ -171,7 +171,25 @@
                                 audio.src = "https://www.myinstants.com/media/sounds/pornhub-community-intro.mp3";
 					            audio.play();
                             }
+			
+			else if(message.content.match(/nanan/) || message.content.match(/nonon/))
+                            {
+                                audio.src = "https://www.myinstants.com/media/sounds/hitler-nein_1.mp3";
+					            audio.play();
+                            }
 
+
+                         else if(message.content.match(/sexy/) || message.content.match(/charmant/) || message.content.match(/menthe/) || message.content.match(/beau/) || message.content.match(/belle/))
+                            {
+                                audio.src = "https://www.myinstants.com/media/sounds/ffff_1-mp3cut_qAUmF89.mp3";
+					            audio.play();
+                            }
+
+                         else if(message.content.match(/meurs/) || message.content.match(/crève/) || message.content.match(/mort/) || message.content.match(/creve/))
+                            {
+                                audio.src = "https://www.myinstants.com/media/sounds/coffin-dance-sa.mp3";
+					            audio.play();
+                            }
 
 						await new Promise(r => setTimeout(r, this.settings.general.delay));
 					}
