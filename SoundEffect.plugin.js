@@ -2,7 +2,7 @@
  * @name SoundEffects
  * @author DarSitam
  * @authorId 278543574059057154
- * @version 1.0.1
+ * @version 1.0.2
  * @description plugin BetterDiscord qui joue certains sons quand certains mots sont envoyés
  * @source https://github.com/DarSitam/BD-Sound-Effects/blob/main/SoundEffect.plugin.js
  * @updateUrl https://raw.githubusercontent.com/DarSitam/BD-Sound-Effects/main/SoundEffect.plugin.js
